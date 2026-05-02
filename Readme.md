@@ -1,6 +1,6 @@
 # Website code
 
-Welcome to my [personal website] (https://diana-moreno-santillan.github.io/) template!
+Welcome to my [personal website](https://diana-moreno-santillan.github.io/) template!
 
 This site is always under construction  :construction:
 
